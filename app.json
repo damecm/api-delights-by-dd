@@ -1,0 +1,41 @@
+{
+	"items" : [
+		{
+			"item_name": "Cake Pops",
+			"item_price" : "$2.25 (sold individually)",
+			"item_img" : "https://images2.imgbox.com/b3/6e/41YA1pHn_o.png"
+		},
+		
+		{
+			"item_name": "Chocolate Chip Cookie",
+			"item_price" : "$10.00 per dozen",
+			"item_img" : "https://images2.imgbox.com/be/69/8zHkoYOt_o.png"
+		},
+		
+		{
+			"item_name": "Stuffed Peanut Butter Cup Bombs",
+			"item_price" : "$2.00 (sold individually)",
+			"item_img" : "https://images2.imgbox.com/ce/ab/cdsOqj7w_o.png"
+		},
+		
+		{
+			"item_name": "Chocolate Kahlua Cake",
+			"item_price" : "$40.00 per cake",
+			"item_img" : "https://images2.imgbox.com/b1/3e/MjR18ckn_o.png"
+		},
+		
+		{
+			"item_name": "Almond Bars",
+			"item_price" : "$40.00 per batch (30 bars)",
+			"item_img" : "https://images2.imgbox.com/62/6c/lES6ttAE_o.png"
+		},
+		
+		{
+			"item_name": "Sour Cream Cut Out Cookies",
+			"item_price" : "$2.00 (sold individually)",
+			"item_img" : "https://images2.imgbox.com/60/eb/AGAX671Q_o.png"
+		}
+		
+    ]
+
+}
