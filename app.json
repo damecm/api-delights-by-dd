@@ -34,6 +34,11 @@
 			"item_name": "Sour Cream Cut Out Cookies",
 			"item_price" : "$2.00 (sold individually)",
 			"item_img" : "https://images2.imgbox.com/60/eb/AGAX671Q_o.png"
+		},
+		{
+			"item_name": "Spicy Chicken Crack Slaw",
+			"item_price" : "$25.00 per batch (serves 2-3)",
+			"item_img" : "https://images2.imgbox.com/2a/a0/2e6Y08sC_o.jpg"
 		}
 		
     ]
